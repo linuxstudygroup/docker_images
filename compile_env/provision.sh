@@ -2,7 +2,7 @@
 
 apt-get update
 apt-get install -y apt-utils
-apt-get install -y gcc gdb
+apt-get install -y gcc gdb bsdmainutils
 apt-get install -y make 
 apt-get install -y vim 
 apt-get install -y git zsh wget
